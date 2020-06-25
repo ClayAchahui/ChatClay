@@ -1,0 +1,8 @@
+C:\Users\cyahuira\source\repos\ChatClay\ChatClay.Messages\bin\Release\netstandard2.0\ChatClay.Messages.deps.json
+C:\Users\cyahuira\source\repos\ChatClay\ChatClay.Messages\bin\Release\netstandard2.0\ChatClay.Messages.dll
+C:\Users\cyahuira\source\repos\ChatClay\ChatClay.Messages\bin\Release\netstandard2.0\ChatClay.Messages.pdb
+C:\Users\cyahuira\source\repos\ChatClay\ChatClay.Messages\obj\Release\netstandard2.0\ChatClay.Messages.csprojAssemblyReference.cache
+C:\Users\cyahuira\source\repos\ChatClay\ChatClay.Messages\obj\Release\netstandard2.0\ChatClay.Messages.AssemblyInfoInputs.cache
+C:\Users\cyahuira\source\repos\ChatClay\ChatClay.Messages\obj\Release\netstandard2.0\ChatClay.Messages.AssemblyInfo.cs
+C:\Users\cyahuira\source\repos\ChatClay\ChatClay.Messages\obj\Release\netstandard2.0\ChatClay.Messages.dll
+C:\Users\cyahuira\source\repos\ChatClay\ChatClay.Messages\obj\Release\netstandard2.0\ChatClay.Messages.pdb

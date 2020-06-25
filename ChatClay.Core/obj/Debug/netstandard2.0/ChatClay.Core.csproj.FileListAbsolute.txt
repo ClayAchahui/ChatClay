@@ -1,0 +1,11 @@
+C:\Users\cyahuira\source\repos\ChatClay\ChatClay.Core\bin\Debug\netstandard2.0\ChatClay.Core.deps.json
+C:\Users\cyahuira\source\repos\ChatClay\ChatClay.Core\bin\Debug\netstandard2.0\ChatClay.Core.dll
+C:\Users\cyahuira\source\repos\ChatClay\ChatClay.Core\bin\Debug\netstandard2.0\ChatClay.Core.pdb
+C:\Users\cyahuira\source\repos\ChatClay\ChatClay.Core\bin\Debug\netstandard2.0\ChatClay.Messages.dll
+C:\Users\cyahuira\source\repos\ChatClay\ChatClay.Core\bin\Debug\netstandard2.0\ChatClay.Messages.pdb
+C:\Users\cyahuira\source\repos\ChatClay\ChatClay.Core\obj\Debug\netstandard2.0\ChatClay.Core.csprojAssemblyReference.cache
+C:\Users\cyahuira\source\repos\ChatClay\ChatClay.Core\obj\Debug\netstandard2.0\ChatClay.Core.AssemblyInfoInputs.cache
+C:\Users\cyahuira\source\repos\ChatClay\ChatClay.Core\obj\Debug\netstandard2.0\ChatClay.Core.AssemblyInfo.cs
+C:\Users\cyahuira\source\repos\ChatClay\ChatClay.Core\obj\Debug\netstandard2.0\ChatClay.Core.csproj.CopyComplete
+C:\Users\cyahuira\source\repos\ChatClay\ChatClay.Core\obj\Debug\netstandard2.0\ChatClay.Core.dll
+C:\Users\cyahuira\source\repos\ChatClay\ChatClay.Core\obj\Debug\netstandard2.0\ChatClay.Core.pdb
